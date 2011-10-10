@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/jinput~svn/!svn/ver/246/trunk/coreAPI/src/java/net/java/games/input
+END
+ControllerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jinput~svn/!svn/ver/3/trunk/coreAPI/src/java/net/java/games/input/ControllerListener.java
+END
+Keyboard.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jinput~svn/!svn/ver/139/trunk/coreAPI/src/java/net/java/games/input/Keyboard.java
+END
+Mouse.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jinput~svn/!svn/ver/189/trunk/coreAPI/src/java/net/java/games/input/Mouse.java
+END
+Rumbler.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jinput~svn/!svn/ver/85/trunk/coreAPI/src/java/net/java/games/input/Rumbler.java
+END
+AbstractController.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jinput~svn/!svn/ver/179/trunk/coreAPI/src/java/net/java/games/input/AbstractController.java
+END
+ControllerEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jinput~svn/!svn/ver/3/trunk/coreAPI/src/java/net/java/games/input/ControllerEvent.java
+END
+Component.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jinput~svn/!svn/ver/141/trunk/coreAPI/src/java/net/java/games/input/Component.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jinput~svn/!svn/ver/192/trunk/coreAPI/src/java/net/java/games/input/package.html
+END
+Controller.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jinput~svn/!svn/ver/192/trunk/coreAPI/src/java/net/java/games/input/Controller.java
+END
+AbstractComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jinput~svn/!svn/ver/209/trunk/coreAPI/src/java/net/java/games/input/AbstractComponent.java
+END
+Event.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jinput~svn/!svn/ver/139/trunk/coreAPI/src/java/net/java/games/input/Event.java
+END
+PluginClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jinput~svn/!svn/ver/76/trunk/coreAPI/src/java/net/java/games/input/PluginClassLoader.java
+END
+Version.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jinput~svn/!svn/ver/243/trunk/coreAPI/src/java/net/java/games/input/Version.java
+END
+ControllerEnvironment.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jinput~svn/!svn/ver/229/trunk/coreAPI/src/java/net/java/games/input/ControllerEnvironment.java
+END
+EventQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jinput~svn/!svn/ver/237/trunk/coreAPI/src/java/net/java/games/input/EventQueue.java
+END
+DefaultControllerEnvironment.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/jinput~svn/!svn/ver/245/trunk/coreAPI/src/java/net/java/games/input/DefaultControllerEnvironment.java
+END
