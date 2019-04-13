@@ -30,7 +30,7 @@ import java.util.List;
  * Time: 22:15
  */
 public class DeviceConfigPanel extends JPanel implements ActionListener, DataSentEvent, AdjustmentListener{
-    public final static int SERVO_COUNT = 10;
+    public final static int SERVO_COUNT = 8;
     private static final String CONNECT = "Connect";
     private static final String DISCONNECT = "Disconnect";
     private final JComboBox comBox;
