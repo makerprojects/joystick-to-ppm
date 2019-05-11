@@ -20,14 +20,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="097940cb-ff97-4d5e-b97e-5ebd704b6761" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/JoystickToPPM_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/JoystickToPPM_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JoystickToPPM.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JoystickToPPM.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/jar/JoystickToPPM.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/jar/JoystickToPPM.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/jar/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/jar/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JoystickToPPM/main/usb2ppm/Usb2PPMWorker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JoystickToPPM/main/usb2ppm/Usb2PPMWorker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/GUI/DeviceConfigPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/GUI/DeviceConfigPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/rxtx/win_x64/start.bat" beforeDir="false" afterPath="$PROJECT_DIR$/lib/rxtx/win_x86/start.x86.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/jar/JoystickToPPM.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/jar/RXTXcomm.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/jar/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/jar/jinput.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/jar/lib/jinput/jinput-dx8-64.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/jar/lib/jinput/jinput-dx8.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/jar/lib/jinput/jinput-dx8_64.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/jar/lib/jinput/jinput-raw-64.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/jar/lib/jinput/jinput-raw.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/jar/lib/jinput/jinput-raw_64.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/jar/lib/jinput/jinput-test.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/jar/lib/jinput/jinput-wintab.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/jar/lib/jinput/jinput.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/jar/lib/jinput/libjinput-linux.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/jar/lib/jinput/libjinput-linux64.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/jar/lib/jinput/libjinput-osx.jnilib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/jar/lib/rxtx/Linux/i686-unknown-linux-gnu/librxtxParallel.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/jar/lib/rxtx/Linux/i686-unknown-linux-gnu/librxtxSerial.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/jar/lib/rxtx/Linux/ia64-unkown-linux-gnu/librxtxSerial.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/jar/lib/rxtx/Linux/x86_64-unknown-linux-gnu/librxtxSerial.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/jar/lib/rxtx/RXTXcomm.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/jar/lib/rxtx/Solaris/sparc-solaris/sparc32-sun-solaris2.8/librxtxSerial-2.1-7.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/jar/lib/rxtx/Solaris/sparc-solaris/sparc32-sun-solaris2.8/librxtxSerial.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/jar/lib/rxtx/Solaris/sparc-solaris/sparc64-sun-solaris2.8/librxtxSerial-2.1-7.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/jar/lib/rxtx/Solaris/sparc-solaris/sparc64-sun-solaris2.8/librxtxSerial.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/jar/lib/rxtx/librxtxSerial.jnilib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/jar/lib/rxtx/rxtxParallel.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/jar/lib/rxtx/rxtxSerial.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/jar/lib/rxtx/win_x64/rxtxParallel.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/jar/lib/rxtx/win_x64/rxtxSerial.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/jar/lib/rxtx/win_x64/start.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/jar/lib/rxtx/win_x64/start.x64.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/jar/start.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/jar/start.x64.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/GUI/event/ControllerAddListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/GUI/event/ControllerAddListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/usb2ppm/event/DataSentEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/usb2ppm/event/DataSentEvent.java" afterDir="false" />
     </list>
     <ignored path="JoystickToPPM.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -137,42 +172,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/GUI/controller/ButtonPanel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="41" selection-start-line="41" selection-end-line="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/usb2ppm/ServoParameter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-              <folding>
-                <element signature="e#458#459#0" expanded="true" />
-                <element signature="e#484#485#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/usb2ppm/Usb2PPMWorker.java">
+        <entry file="file://$PROJECT_DIR$/.idea/artifacts/JoystickToPPM_jar.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="471">
-              <caret line="161" column="13" lean-forward="true" selection-start-line="161" selection-start-column="13" selection-end-line="161" selection-end-column="13" />
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/GUI/DeviceConfigPanel.java">
+        <entry file="file://$PROJECT_DIR$/lib/rxtx/win_x86/start.x86.bat">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="329" column="98" lean-forward="true" selection-start-line="329" selection-start-column="98" selection-end-line="329" selection-end-column="98" />
+            <state>
+              <caret column="39" selection-start-column="36" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/rxtx/win_x64/start.x64.bat">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="52" selection-start-column="45" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -180,48 +202,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/GUI/ControllerReadTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
-              <caret line="104" selection-start-line="104" selection-end-line="104" />
+            <state relative-caret-position="119">
+              <caret line="43" selection-start-line="39" selection-end-line="43" />
               <folding>
                 <element signature="e#0#8691#0" expanded="true" />
-                <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/GUI/MainFrame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
-              <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/GUI/AssignDialog.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="22" column="58" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/GlobalProperties.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1292">
-              <caret line="81" selection-start-line="81" selection-end-line="81" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/controller/ControllerUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -229,8 +214,62 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/GUI/controller/POVPanel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="32" column="56" selection-start-line="32" selection-start-column="56" selection-end-line="32" selection-end-column="56" />
+            <state relative-caret-position="119">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/GUI/controller/POVComponent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="2" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/GUI/DeviceConfigPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3961">
+              <caret line="261" column="5" selection-start-line="261" selection-start-column="5" selection-end-line="261" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/usb2ppm/Usb2PPMWorker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="205" selection-start-line="201" selection-end-line="205" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/lib/rxtx/RXTXcomm.jar!/gnu/io/CommPortIdentifier.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2550">
+              <caret line="160" selection-start-line="160" selection-end-line="160" />
+              <folding>
+                <element signature="e#4846#4847#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/lib/rxtx/RXTXcomm.jar!/gnu/io/CommPortEnumerator.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
             </state>
           </provider>
         </entry>
@@ -242,9 +281,12 @@
       <find>Usb2PPMWorker</find>
       <find>SERVO_COUNT</find>
       <find>Connect</find>
+      <find>getPollData</find>
+      <find>gnu</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Users\Gego\Documents\USB2PPM\JoystickToPPM\joystick-to-ppm\src\main</dir>
+      <dir>C:\Users\Gego\Documents\USB2PPM\JoystickToPPM\joystick-to-ppm</dir>
     </dirStrings>
   </component>
   <component name="FindManager">
@@ -260,6 +302,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/GUI/DeviceConfigPanel.java" />
+        <option value="$PROJECT_DIR$/joysticktoppm.xml" />
+        <option value="$PROJECT_DIR$/out/artifacts/jar/start.bat" />
+        <option value="$PROJECT_DIR$/out/artifacts/jar/start.x64.bat" />
+        <option value="$PROJECT_DIR$/.idea/artifacts/JoystickToPPM_jar.xml" />
+        <option value="$PROJECT_DIR$/lib/rxtx/win_x86/start.x86.bat" />
       </list>
     </option>
   </component>
@@ -267,10 +314,10 @@
     <option name="LAST_EDITED_MODULE_NAME" />
     <option name="LAST_EDITED_TAB_NAME" />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="20" />
     <option name="width" value="1280" />
-    <option name="height" value="688" />
+    <option name="height" value="700" />
   </component>
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
@@ -281,7 +328,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -292,6 +338,80 @@
             <path>
               <item name="JoystickToPPM" type="b2602c69:ProjectViewProjectNode" />
               <item name="joystick-to-ppm" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JoystickToPPM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="joystick-to-ppm" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JoystickToPPM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="joystick-to-ppm" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JoystickToPPM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="joystick-to-ppm" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="jinput" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JoystickToPPM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="joystick-to-ppm" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="jinput" type="462c0819:PsiDirectoryNode" />
+              <item name="jinput.jar" type="ab9368bb:PsiFileNode" />
+            </path>
+            <path>
+              <item name="JoystickToPPM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="joystick-to-ppm" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="rxtx" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JoystickToPPM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="joystick-to-ppm" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="rxtx" type="462c0819:PsiDirectoryNode" />
+              <item name="Linux" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JoystickToPPM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="joystick-to-ppm" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="rxtx" type="462c0819:PsiDirectoryNode" />
+              <item name="win_x64" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JoystickToPPM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="joystick-to-ppm" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="rxtx" type="462c0819:PsiDirectoryNode" />
+              <item name="win_x86" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JoystickToPPM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="joystick-to-ppm" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="rxtx" type="462c0819:PsiDirectoryNode" />
+              <item name="RXTXcomm.jar" type="ab9368bb:PsiFileNode" />
+            </path>
+            <path>
+              <item name="JoystickToPPM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="joystick-to-ppm" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JoystickToPPM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="joystick-to-ppm" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JoystickToPPM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="joystick-to-ppm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -313,22 +433,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="GUI" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JoystickToPPM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="joystick-to-ppm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="GUI" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JoystickToPPM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="joystick-to-ppm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="GUI" type="462c0819:PsiDirectoryNode" />
-              <item name="event" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JoystickToPPM" type="b2602c69:ProjectViewProjectNode" />
@@ -337,16 +441,11 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="usb2ppm" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="JoystickToPPM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="joystick-to-ppm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Favorites" />
     </panes>
   </component>
@@ -372,15 +471,19 @@
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.side.proportion" value="0.09891197" />
     <property name="recentsLimit" value="5" />
-    <property name="settings.editor.selected.configurable" value="android.dex.compiler" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="main.GUI" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Gego\Documents\USB2PPM\JoystickToPPM\joystick-to-ppm\lib\rxtx\win_x86" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -691,7 +794,7 @@
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration>C:\Documents and Settings\avorobiev\Application Data\Subversion</configuration>
+    <configuration>C:\Users\Gego\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -713,10 +816,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="20" width="1280" height="688" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" id="Project" order="0" sideWeight="0.86431015" visible="true" weight="0.3909836" />
+      <window_info active="true" id="Project" order="0" sideWeight="0.86431015" visible="true" weight="0.33207262" />
       <window_info id="Structure" order="1" sideWeight="0.32611173" side_tool="true" weight="0.33067974" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -725,19 +827,20 @@
       <window_info id="Image Layers" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3291367" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.9460432" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.35119727" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" weight="0.9444444" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49924356" weight="0.34983498" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32854578" />
       <window_info anchor="bottom" id="Changes" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5015129" side_tool="true" weight="0.9444444" />
       <window_info anchor="bottom" id="IDEtalk Messages" order="9" />
       <window_info anchor="bottom" id="JProfiler" order="10" />
-      <window_info anchor="bottom" id="Dependency Viewer" order="11" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="11" weight="0.48741007" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="Terminal" order="13" />
-      <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.0" weight="0.32733813" />
+      <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.32753405" weight="0.32352942" />
+      <window_info anchor="bottom" id="Inspection Results" order="15" sideWeight="0.49918032" weight="0.3274648" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -852,6 +955,12 @@
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/GUI/DeviceConfigPanel.java</url>
+          <line>261</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -865,39 +974,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/jinput-core/src/java/net/java/games/input/Component.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="80" column="26" selection-start-line="80" selection-start-column="26" selection-end-line="80" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/GUI/controller/ComponentConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/GUI/ControllerTextTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/GUI/controller/POVComponent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_92/jre/lib/rt.jar!/java/lang/System.class" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_92/jre/lib/ext/jfxrt.jar!/javafx/beans/property/SetPropertyBase.class" />
-    <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="jar://$PROJECT_DIR$/lib/rxtx/RXTXcomm.jar!/gnu/io/SerialPort.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
@@ -916,13 +992,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
@@ -947,13 +1016,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/GUI/controller/ButtonPanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/usb2ppm/ServoParameter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -965,10 +1027,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/GUI/AssignDialog.java">
+    <entry file="jar://$PROJECT_DIR$/lib/jinput/jinput.jar!/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/GUI/MainFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="22" column="58" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="58" />
+        <state relative-caret-position="1105">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
         </state>
       </provider>
     </entry>
@@ -986,42 +1051,240 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/GUI/controller/POVPanel.java">
+    <entry file="file://$PROJECT_DIR$/src/main/GUI/tabs/ButtonTabComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="59" column="24" selection-start-line="59" selection-start-column="24" selection-end-line="59" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/copyright/profiles_settings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/JoystickToPPM/main/GlobalProperties.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
-          <caret line="32" column="56" selection-start-line="32" selection-start-column="56" selection-end-line="32" selection-end-column="56" />
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+          <folding>
+            <element signature="e#0#2650#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/artifacts/jar/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JoystickToPPM.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/joysticktoppm.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/joysticktoppm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="41" lean-forward="true" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/GUI/AssignDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="22" column="58" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/.name">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_joysticktoppm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" column="7" selection-start-line="61" selection-start-column="7" selection-end-line="61" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/artifacts/jar/start.bat" />
+    <entry file="file://$PROJECT_DIR$/out/artifacts/jar/start.x64.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="75" selection-start-column="75" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/libraries/RXTX.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/rxtx/RXTXcomm.jar!/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jinput-core/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="81" selection-start-line="81" selection-end-line="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17068">
+          <caret line="1013" column="9" selection-start-line="1013" selection-start-column="9" selection-end-line="1013" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jinput-core/README.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/scopes/scope_settings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/JoystickToPPM/main/GUI/controller/ComponentConfig.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/libraries/JINPUT.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/GUI/controller/ButtonPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="7" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/GUI/ControllerReadTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="104" selection-start-line="104" selection-end-line="104" />
+        <state relative-caret-position="119">
+          <caret line="43" selection-start-line="39" selection-end-line="43" />
           <folding>
             <element signature="e#0#8691#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/GUI/controller/POVPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/GUI/MainFrame.java">
+    <entry file="file://$PROJECT_DIR$/src/main/GUI/controller/POVComponent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="2" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/GUI/DeviceConfigPanel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="329" column="98" lean-forward="true" selection-start-line="329" selection-start-column="98" selection-end-line="329" selection-end-column="98" />
+        <state relative-caret-position="3961">
+          <caret line="261" column="5" selection-start-line="261" selection-start-column="5" selection-end-line="261" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/rxtx/RXTXcomm.jar!/gnu/io/CommPortIdentifier.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2550">
+          <caret line="160" selection-start-line="160" selection-end-line="160" />
+          <folding>
+            <element signature="e#4846#4847#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/rxtx/RXTXcomm.jar!/gnu/io/CommPortEnumerator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/usb2ppm/Usb2PPMWorker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="471">
-          <caret line="161" column="13" lean-forward="true" selection-start-line="161" selection-start-column="13" selection-end-line="161" selection-end-column="13" />
+        <state relative-caret-position="493">
+          <caret line="205" selection-start-line="201" selection-end-line="205" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/rxtx/win_x64/start.x64.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="52" selection-start-column="45" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/rxtx/win_x86/start.x86.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="39" selection-start-column="36" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/artifacts/JoystickToPPM_jar.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
@@ -1035,7 +1298,8 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.09891197" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -1052,7 +1316,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.09891197" />
               </list>
             </option>
           </splitter-proportions>
@@ -1063,7 +1327,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.20588236" />
               </list>
             </option>
           </splitter-proportions>
@@ -1075,7 +1339,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.20588236" />
               </list>
             </option>
           </splitter-proportions>
@@ -1087,7 +1351,8 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.09891197" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -1106,11 +1371,11 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>RXTX</last-edited>
+          <last-edited>JINPUT</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.09891197" />
               </list>
             </option>
           </splitter-proportions>

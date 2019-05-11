@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="JoystickToPPM:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/jar</output-path>
+    <root id="root">
+      <element id="archive" name="JoystickToPPM.jar">
+        <element id="module-output" name="JoystickToPPM" />
+      </element>
+      <element id="library" level="project" name="RXTX" />
+      <element id="library" level="project" name="JINPUT" />
+      <element id="directory" name="lib">
+        <element id="dir-copy" path="$PROJECT_DIR$/lib" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/lib/rxtx/win_x86/start.x86.bat" />
+      <element id="file-copy" path="$PROJECT_DIR$/lib/rxtx/win_x64/start.x64.bat" />
+    </root>
+  </artifact>
+</component>

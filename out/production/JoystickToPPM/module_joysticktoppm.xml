@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_joysticktoppm" default="compile.module.joysticktoppm">
+  <dirname property="module.joysticktoppm.basedir" file="${ant.file.module_joysticktoppm}"/>
+  
+  <property name="module.jdk.home.joysticktoppm" value="${project.jdk.home}"/>
+  <property name="module.jdk.bin.joysticktoppm" value="${project.jdk.bin}"/>
+  <property name="module.jdk.classpath.joysticktoppm" value="${project.jdk.classpath}"/>
+  
+  <property name="compiler.args.joysticktoppm" value="-encoding UTF-8 -source 1.5 -target 1.5 ${compiler.args}"/>
+  
+  <property name="joysticktoppm.output.dir" value="${module.joysticktoppm.basedir}/out/production/JoystickToPPM"/>
+  <property name="joysticktoppm.testoutput.dir" value="${module.joysticktoppm.basedir}/out/test/JoystickToPPM"/>
+  
+  <path id="joysticktoppm.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="joysticktoppm.module.production.classpath">
+    <path refid="library.jinput.classpath"/>
+    <path refid="library.rxtx.classpath"/>
+  </path>
+  
+  <path id="joysticktoppm.runtime.production.module.classpath">
+    <pathelement location="${joysticktoppm.output.dir}"/>
+    <path refid="library.jinput.classpath"/>
+    <path refid="library.rxtx.classpath"/>
+  </path>
+  
+  <path id="joysticktoppm.module.classpath">
+    <pathelement location="${joysticktoppm.output.dir}"/>
+    <path refid="library.jinput.classpath"/>
+    <path refid="library.rxtx.classpath"/>
+  </path>
+  
+  <path id="joysticktoppm.runtime.module.classpath">
+    <pathelement location="${joysticktoppm.testoutput.dir}"/>
+    <pathelement location="${joysticktoppm.output.dir}"/>
+    <path refid="library.jinput.classpath"/>
+    <path refid="library.rxtx.classpath"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.joysticktoppm">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.joysticktoppm">
+    <patternset refid="excluded.from.module.joysticktoppm"/>
+  </patternset>
+  
+  <path id="joysticktoppm.module.sourcepath">
+    <dirset dir="${module.joysticktoppm.basedir}">
+      <include name="src"/>
+    </dirset>
+  </path>
+  
+  
+  <target name="compile.module.joysticktoppm" depends="compile.module.joysticktoppm.production,compile.module.joysticktoppm.tests" description="Compile module JoystickToPPM"/>
+  
+  <target name="compile.module.joysticktoppm.production" depends="register.custom.compilers" description="Compile module JoystickToPPM; production classes">
+    <mkdir dir="${joysticktoppm.output.dir}"/>
+    <javac2 destdir="${joysticktoppm.output.dir}" debug="${compiler.debug}" nowarn="${compiler.generate.no.warnings}" memorymaximumsize="${compiler.max.memory}" fork="true" executable="${module.jdk.bin.joysticktoppm}/javac">
+      <compilerarg line="${compiler.args.joysticktoppm}"/>
+      <bootclasspath refid="joysticktoppm.module.bootclasspath"/>
+      <classpath refid="joysticktoppm.module.production.classpath"/>
+      <src refid="joysticktoppm.module.sourcepath"/>
+      <patternset refid="excluded.from.compilation.joysticktoppm"/>
+    </javac2>
+    
+    <copy todir="${joysticktoppm.output.dir}">
+      <fileset dir="${module.joysticktoppm.basedir}/src">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+    </copy>
+  </target>
+  
+  <target name="compile.module.joysticktoppm.tests" depends="register.custom.compilers,compile.module.joysticktoppm.production" description="compile module JoystickToPPM; test classes" unless="skip.tests"/>
+  
+  <target name="clean.module.joysticktoppm" description="cleanup module">
+    <delete dir="${joysticktoppm.output.dir}"/>
+    <delete dir="${joysticktoppm.testoutput.dir}"/>
+  </target>
+</project>

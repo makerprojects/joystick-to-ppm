@@ -1,1 +1,0 @@
-regsvr32 dx8vb.dll
